@@ -1,1 +1,6 @@
+title: Annual European Bioinformatics Core Community (AEBC2)
+logo: /assets/img/aebc2_logo.png
+description: Website of AEBC2.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
