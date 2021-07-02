@@ -14,16 +14,16 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td>![Jessica M. Lindvall](/../assets/img/lindvall.jpeg)</td>
-        <td>[Jessica M. Lindvall](https://nbis.se/about/staff/jessica-lindvall/)<br/>
+        <td><img src="/../assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
+        <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
     </tr>
     <tr>
-        <td>Foo</td>
-        <td>[Elisabetta Mereu](https://www.carrerasresearch.org/en/cellular-systems-genomics_169432)<br/>
-                        Group Leader<br/>
-                        Josep Carreras Leukaemia Research Institute</td>
+        <td><img src="/../assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
+        <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
+                        Group Leader Cellular Systems Genomics<br/>
+                        Josep Carreras Research Institute, Spain</td>
     </tr>
 </table>
 
