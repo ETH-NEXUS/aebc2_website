@@ -18,13 +18,13 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td><img src="/aebc2_website/assets/img/lindvall.jpeg" width="100"></td>
+        <td><img src="/aebc2_website/assets/img/lindvall.jpeg" width="200"></td>
         <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
     </tr>
     <tr>
-        <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="100"></td>
+        <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="200"></td>
         <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
                         Group Leader Cellular Systems Genomics<br/>
                         Josep Carreras Research Institute, Spain</td>
@@ -55,13 +55,13 @@ We address publicly used analysis infrastructures, bioinformatics service and re
 
 AEBC2 2021 is organized by
 
-- Camille Stephan (IRB Barcelona, Spain)
-- Sven Nahnsen (University of Tübingen, Germany)
-- Daniel Stekhoven (ETH Zürich, Swiss Institute of Bioinformatics (SIB), Switzerland)
+- Camille Stephan ([IRB Barcelona](https://www.irbbarcelona.org/en), Spain)
+- Sven Nahnsen ([University of Tübingen](https://uni-tuebingen.de/), Germany)
+- Daniel Stekhoven ([ETH Zurich](https://ethz.ch/en.html), Swiss Institute of Bioinformatics ([SIB](https://www.sib.swiss/)), Switzerland)
 
 ## Imprint
 
-www.aebc2.eu is the website of the Annual European Bioinformatics Core Community Workshop (ÄBC2). The website is published by the organizers, namely Dieter Beule (BIH Berlin), Sven Nahnsen (Tübingen), Sven Rahmann (University of Duisburg-Essen), and Daniel Stekhoven (ETH Zürich), Camille Stephan (IRB Barcelona, Spain).
+www.aebc2.eu is the website of the Annual European Bioinformatics Core Community Workshop (AEBC2). The website is published by the organizers, namely Camille Stephan (IRB Barcelona, Spain), Sven Nahnsen (Tübingen, Germany), and Daniel Stekhoven (ETH Zurich, Switzerland), .
 
 ### Disclaimer
 
@@ -69,7 +69,7 @@ Although the organizers take all possible care to ensure the correctness of publ
 
 The organizers expressly reserve the right to change, to delete or temporarily not to publish the contents wholly or partly at any time and without giving notice.
 
-Liability claims against the organizers or their affiliated institutions, namely BIH Berlin, University of Tübingen, University of Duisburg-Essen, ETH Zürich, because of tangible or intangible damage arising from accessing, using or not using the published information, through misuse of the connection or as a result of technical breakdowns are excluded.
+Liability claims against the organizers or their affiliated institutions, namely University of Tübingen, IRB Barcelona, ETH Zurich, because of tangible or intangible damage arising from accessing, using or not using the published information, through misuse of the connection or as a result of technical breakdowns are excluded.
 
 The organizers have not checked third party web sites, i.e. web sites not located on their servers or in their area of influence, that may be connected to this web site via links, and do not accept any responsibility for the contents or the services offered thereon.
 
@@ -79,7 +79,7 @@ Rights to some pictures are reserved for SIB Swiss Institute of Bioinformatics, 
 
 ### Data Privacy
 
-This website is informational only and does not ask for personal information. However, it as well as its hoster gitlab.io may use external scripts and cookies.
+This website is informational only and does not ask for personal information. However, it as well as its hoster github.com may use external scripts and cookies.
 
 ### Contact
 
