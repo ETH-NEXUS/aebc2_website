@@ -4,6 +4,8 @@
 
 The fifth edition of the AEBC2 workshop will take place as a stand-alone workshop on October 15, 2021. It will be an in-person event. Sessions will be recorded and made available after the workshop on this website.
 
+This year the event is supporting the development of women in science and, in consequence, we have only invited female speakers.
+
 ### Topics
 
 The 2021 workshop is focussing on three topics:
@@ -16,26 +18,22 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td><img src="/aebc2_website/assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
+        <td><img src="/aebc2_website/assets/img/lindvall.jpeg" width="100"></td>
         <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
     </tr>
     <tr>
-        <td><img src="/aebc2_website/assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
+        <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="100"></td>
         <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
                         Group Leader Cellular Systems Genomics<br/>
                         Josep Carreras Research Institute, Spain</td>
     </tr>
 </table>
 
-### Registration & Booking
+### Registration & Agenda
 
-Registration will be done through the IRB Barcelona Website. A link to the registration page will be added soon.
-
-### Tentative Agenda
-
-A table
+Registration will be done through the IRB Barcelona Website, where you can also find the agenda. A link to the registration page will be added soon.
 
 ## Scope
 
