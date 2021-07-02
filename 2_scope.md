@@ -1,0 +1,7 @@
+# Scope
+
+The number of bioinformatics core units in industrial and academic research environments is growing rapidly. The AEBC2 workshop provides an exchange opportunity for scientific and service aspects of bioinformatics core facilities in Europe.
+
+The increasing need for bioinformatics translated to clinical application as a service marks one of the challenges core facilities face today. Examples include omics-informed precision oncology, rare genetic diseases, infectious diseases, and preventive medicine. Due to embarking into new fields and the topic fast evolving, there is much uncertainty about standards, best practices, and continuous tool development, which leads to much duplication happening. This workshop aims to bring together leading researchers and practitioners in these areas to exchange latest approaches, experiences, benchmark results, protocols and best practice guidelines. The workshop format will include invited and contributed talks selected from an open call for contributions, panel discussion on national bioinformatics initiatives and time for networking. See also the programme.
+
+We address publicly used analysis infrastructures, bioinformatics service and research, as well as translational bioinformatics issues like integration of bio-banking, medical records, and the corresponding genomic information.
