@@ -1,8 +1,10 @@
 # 5th AEBC2 Workshop
 
+## Summary
+
 The fifth edition of the AEBC2 workshop will take place as a stand-alone workshop on October 15, 2021. It will be an in-person event. Sessions will be recorded and made available after the workshop on this website.
 
-## Topics
+### Topics
 
 The 2021 workshop is focussing on three topics:
 
@@ -14,24 +16,24 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td><img src="/../assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
+        <td><img src="/assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
         <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
     </tr>
     <tr>
-        <td><img src="/../assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
+        <td><img src="/assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
         <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
                         Group Leader Cellular Systems Genomics<br/>
                         Josep Carreras Research Institute, Spain</td>
     </tr>
 </table>
 
-## Registration & Booking
+### Registration & Booking
 
 Registration will be done through the IRB Barcelona Website. A link to the registration page will be added soon.
 
-# Scope
+## Scope
 
 The number of bioinformatics core units in industrial and academic research environments is growing rapidly. The AEBC2 workshop provides an exchange opportunity for scientific and service aspects of bioinformatics core facilities in Europe.
 
@@ -39,7 +41,7 @@ The increasing need for bioinformatics translated to clinical application as a s
 
 We address publicly used analysis infrastructures, bioinformatics service and research, as well as translational bioinformatics issues like integration of bio-banking, medical records, and the corresponding genomic information.
 
-# Goals
+## Goals
 
 - fostering a community of bioinformaticians working in providing services, including researchers and companies producing tools for or services to them;
 - understanding the strengths and weaknesses of available technologies;
@@ -47,7 +49,7 @@ We address publicly used analysis infrastructures, bioinformatics service and re
 - learning about best practices: what to do and what to avoid in bioinformatics when offered as a service, especially to clinician;
 - developing best practices of reporting evidence to clinicians.
 
-# Organizers
+## Organizers
 
 AEBC2 2021 is organized by
 
@@ -55,11 +57,11 @@ AEBC2 2021 is organized by
 - Sven Nahnsen (University of Tübingen, Germany)
 - Daniel Stekhoven (ETH Zürich, Swiss Institute of Bioinformatics (SIB), Switzerland)
 
-# Imprint
+## Imprint
 
 www.aebc2.eu is the website of the Annual European Bioinformatics Core Community Workshop (ÄBC2). The website is published by the organizers, namely Dieter Beule (BIH Berlin), Sven Nahnsen (Tübingen), Sven Rahmann (University of Duisburg-Essen), and Daniel Stekhoven (ETH Zürich), Camille Stephan (IRB Barcelona, Spain).
 
-## Disclaimer
+### Disclaimer
 
 Although the organizers take all possible care to ensure the correctness of published information, no warranty can be accepted regarding the correctness, accuracy, uptodateness, reliability and completeness of the content of this information.
 
@@ -69,13 +71,16 @@ Liability claims against the organizers or their affiliated institutions, namely
 
 The organizers have not checked third party web sites, i.e. web sites not located on their servers or in their area of influence, that may be connected to this web site via links, and do not accept any responsibility for the contents or the services offered thereon.
 
-## Copyrights to media
+### Copyrights to media
+
 Rights to some pictures are reserved for SIB Swiss Institute of Bioinformatics, Photo: Nicolas Righetti | Lundi13.
 
-## Data Privacy
+### Data Privacy
+
 This website is informational only and does not ask for personal information. However, it as well as its hoster gitlab.io may use external scripts and cookies.
 
-## Contact
+### Contact
+
 In case of questions or comments about the website, please contact us.
 
 - <info@aebc2.eu>
