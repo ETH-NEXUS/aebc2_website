@@ -14,7 +14,7 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td>![Jessic M. Lindvall](/assets/img/lindvall.jpeg)</td>
+        <td>![Jessica M. Lindvall](/../assets/img/lindvall.jpeg)</td>
         <td>[Jessica M. Lindvall](https://nbis.se/about/staff/jessica-lindvall/)<br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
