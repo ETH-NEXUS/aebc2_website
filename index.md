@@ -16,13 +16,13 @@ We have the pleasure to announce formidable keynote speakers:
 
 <table>
     <tr>
-        <td><img src="/assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
+        <td><img src="/aebc2_website/assets/img/lindvall.jpeg">Jessica M. Lindvall</img></td>
         <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
                         National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
     </tr>
     <tr>
-        <td><img src="/assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
+        <td><img src="/aebc2_website/assets/img/mereu.jpeg">Elisabetta Mereu</img></td>
         <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
                         Group Leader Cellular Systems Genomics<br/>
                         Josep Carreras Research Institute, Spain</td>
@@ -32,6 +32,10 @@ We have the pleasure to announce formidable keynote speakers:
 ### Registration & Booking
 
 Registration will be done through the IRB Barcelona Website. A link to the registration page will be added soon.
+
+### Tentative Agenda
+
+A table
 
 ## Scope
 
