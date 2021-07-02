@@ -6,21 +6,24 @@ The fifth edition of the AEBC2 workshop will take place as a stand-alone worksho
 
 The 2021 workshop is focussing on three topics:
 
-- National Bioinformatics Initiatives - how can core facilities fit into the picture?
-- Single cells beyond molecular
-- Healthy cohorts
+- **National Bioinformatics Initiatives - how can core facilities fit into the picture?**
+- **Single cells beyond molecular**
+- **Healthy cohorts**
 
 We have the pleasure to announce formidable keynote speakers:
 
-Jessica M. Lindvall
-Joint head for Short and Medium Support
-National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden
-https://nbis.se/about/staff/jessica-lindvall/ 
-
-Elisabetta Mereu
-Group Leader
-Josep Carreras Leukaemia Research Institute
-https://www.carrerasresearch.org/en/cellular-systems-genomics_169432 
+<table>
+    <tr>
+        <td>Foo</td><td>[Jessica M. Lindvall](https://nbis.se/about/staff/jessica-lindvall/)<br/>
+                        Joint head for Short and Medium Support<br/>
+                        National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
+    </tr>
+    <tr>
+        <td>Foo</td><td>[Elisabetta Mereu](https://www.carrerasresearch.org/en/cellular-systems-genomics_169432)<br/>
+                        Group Leader<br/>
+                        Josep Carreras Leukaemia Research Institute</td>
+    </tr>
+</table>
 
 ## Registration & Booking
 
@@ -73,4 +76,4 @@ This website is informational only and does not ask for personal information. Ho
 ## Contact
 In case of questions or comments about the website, please contact us.
 
-- info@aebc2.eu
+- <info@aebc2.eu>
