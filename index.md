@@ -21,13 +21,15 @@ We have the pleasure to announce formidable keynote speakers:
         <td><img src="/aebc2_website/assets/img/lindvall.jpeg" width="200"></td>
         <td><a href="https://nbis.se/about/staff/jessica-lindvall/">Jessica M. Lindvall</a><br/>
                         Joint head for Short and Medium Support<br/>
-                        National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden</td>
+                        National Bioinformatics Infrastructure Sweden, SciLifeLab, Sweden<br/>
+                        Keynote: <i>The three pillars of NBIS (National Bioinformatics Infrastructure Sweden): Support, Infrastructure and Training</i></td>
     </tr>
     <tr>
         <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="200"></td>
         <td><a href="https://www.carrerasresearch.org/en/cellular-systems-genomics_169432">Elisabetta Mereu</a><br/>
                         Group Leader Cellular Systems Genomics<br/>
-                        Josep Carreras Research Institute, Spain</td>
+                        Josep Carreras Research Institute, Spain<br/>
+                        Keynote: <i>Single-cell multi-omics integration: computational challenges at atlas-level data</i></td>
     </tr>
 </table>
 
@@ -75,7 +77,7 @@ The organizers have not checked third party web sites, i.e. web sites not locate
 
 ### Copyrights to media
 
-Rights to some pictures are reserved for SIB Swiss Institute of Bioinformatics, Photo: Nicolas Righetti | Lundi13.
+Rights to some pictures are reserved for SIB Swiss Institute of Bioinformatics, Photo: Nicolas Righetti Lundi13.
 
 ### Data Privacy
 
