@@ -6,13 +6,15 @@ The fifth edition of the AEBC2 workshop will take place as a stand-alone worksho
 
 This year the event is supporting the development of women in science and, in consequence, we have only invited female speakers.
 
+> [Registration & call for abstracts](https://www.irbbarcelona.org/en/events/aebc2-barcelona21-workshop) has started!
+
 ### Topics
 
 The 2021 workshop is focussing on three topics:
 
 - **National Bioinformatics Initiatives - how can core facilities fit into the picture?**
 - **Single cells beyond molecular**
-- **Healthy cohorts**
+- **Health-Disease Continuum - where are the healthy cohorts?**
 
 We have the pleasure to announce formidable keynote speakers:
 
@@ -35,7 +37,9 @@ We have the pleasure to announce formidable keynote speakers:
 
 ### Registration & Agenda
 
-Registration will be done through the IRB Barcelona Website, where you can also find the agenda. A link to the registration page will be added soon.
+Registration & abstract submission will be done through the [event website](https://www.irbbarcelona.org/en/events/aebc2-barcelona21-workshop) at IRB Barcelona Website, where you can also find the agenda.
+
+> [Register](https://www.irbbarcelona.org/en/events/aebc2-barcelona21-workshop) today and [submit your abstract](https://www.irbbarcelona.org/en/events/aebc2-barcelona21-workshop) for a contributed talk in one of the three sessions.
 
 ## Scope
 
