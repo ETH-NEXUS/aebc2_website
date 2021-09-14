@@ -34,7 +34,7 @@ We have the pleasure to announce formidable keynote speakers:
                         Keynote: <i>Single-cell multi-omics integration: computational challenges at atlas-level data</i></td>
     </tr>
     <tr>
-        <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="200"></td>
+        <td><img src="/aebc2_website/assets/img/bosisio.jpeg" width="200"></td>
         <td><a href="https://lisco.kuleuven.be/">Francesca Maria Bosisio</a><br/>
                         Founding Member of the Institute of Single Cell Omics<br/>
                         KU Leuven, Belgium<br/>
