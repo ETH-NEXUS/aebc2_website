@@ -14,7 +14,7 @@ The 2021 workshop is focussing on three topics:
 
 - **National Bioinformatics Initiatives - how can core facilities fit into the picture?**
 - **Single cells beyond molecular**
-- **Health-Disease Continuum - where are the healthy cohorts?**
+- **Landscapes in cancer and other diseases**
 
 We have the pleasure to announce formidable keynote speakers:
 
@@ -32,6 +32,13 @@ We have the pleasure to announce formidable keynote speakers:
                         Group Leader Cellular Systems Genomics<br/>
                         Josep Carreras Research Institute, Spain<br/>
                         Keynote: <i>Single-cell multi-omics integration: computational challenges at atlas-level data</i></td>
+    </tr>
+    <tr>
+        <td><img src="/aebc2_website/assets/img/mereu.jpeg" width="200"></td>
+        <td><a href="https://lisco.kuleuven.be/">Francesca Maria Bosisio</a><br/>
+                        Founding Member of the Institute of Single Cell Omics<br/>
+                        KU Leuven, Belgium<br/>
+                        Keynote: <i>Single cell multiplexed immunohistochemistry to dissect the immune landscape and cell sociology of melanoma</i></td>
     </tr>
 </table>
 
