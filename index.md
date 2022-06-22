@@ -19,7 +19,7 @@ Abstract towards contributed talks within the scope of the workshop goals are we
 
 AEBC2 is open to all [ECCB](https://eccb2022.org/registration/) participants at no extra cost. 
 
-## Prelimanary Program 
+## Preliminary Program 
 
 We have the pleasure to announce the following keynote speakers
 
