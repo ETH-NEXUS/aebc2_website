@@ -5,7 +5,7 @@ The AEBC2 workshop has been established as a yearly meeting of European bioinfor
 
 ## 6th AEBC2 Event 2022 
 
-The sixth edition of the **AEBC2** workshop will take place at the **ECCB** conference on Sunday, September 18th, 2022 in Stiges Barcelona, it will be an **in-person** event - we look forward to meet you! Each year, there is a different focus topic; for 2022 we selected **Mass Spectrometry and Multi-Omics Bioinformatics**
+The sixth edition of the **AEBC2** workshop will take place at the **ECCB** conference on Sunday, September 18th, 2022 in Sitges, Barcelona, Spain. It will be an **in-person** event - we look forward to meeting you! Each year, there is a different focus topic; for 2022 we selected **Mass Spectrometry and Multi-Omics Bioinformatics**
 
 Registration and **call for abstracts** has started! 
 
@@ -13,8 +13,7 @@ Registration and **call for abstracts** has started!
 
 Submit your abstract for a contributed talk by sending e-mail to <info@aebc2.eu> by 8th of August 2022. 
 
-All contribtioned talks that are in line with Scope and Goals of the workshop and ideally fit
-to this years focus are very welcome. Selection will be done by the AEBC2 organization commitee.  
+Abstract towards contributed talks within the scope of the workshop goals are welcome. Selection will be done by the AEBC2 organization committee.  
 
 ### Registration 
 
@@ -40,7 +39,7 @@ We have the pleasure to announce the following keynote speakers
 
 10:40  Contributed talk & discussion 
 
-11:00  End of 1st Sessison 
+11:00  End of 1st Session 
 
 ### Session 2
 
