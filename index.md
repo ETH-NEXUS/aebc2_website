@@ -19,19 +19,18 @@ Abstract towards contributed talks within the scope of the workshop goals are we
 
 AEBC2 is open to all [ECCB](https://eccb2022.org/registration/) participants at no extra cost. 
 
-## Preliminary Program 
+## Program 
 
 We have the pleasure to announce the following keynote speakers
-
-- Phillip Mertins, BIMSB/MDC Berlin, Germany (tentative)
-
-- Marina Gay, BIST/IRB Barcelona (tentative)
+Phillip Mertins, BIMSB/MDC, Berlin, Germany and Marina Gay, BIST/IRB Barcelona, Spain.
 
 ### Session 1
 
  9:00   Welcome Address
  
  9:15   Keynote presentation & discussion
+
+   Phillip Mertins, BIMSB/MDC Berlin, Germany, Title: t.b.c. 
 
 10:00  Contributed talk & discussion 
 
@@ -44,6 +43,8 @@ We have the pleasure to announce the following keynote speakers
 ### Session 2
 
 11:15 Keynote presentation & discussion 
+
+Marina Gay, BIST/IRB Barcelona, Spain, Title: t.b.c. 
 
 12:00 Best Practice Session (Open Discussion & One Slide Presentations)
 
