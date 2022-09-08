@@ -44,7 +44,7 @@ Phillip Mertins, BIMSB/MDC, Berlin, Germany and Marina Gay, BIST/IRB Barcelona, 
 
 11:15 Keynote presentation & discussion 
 
-Marina Gay, BIST/IRB Barcelona, Spain, Title: t.b.c. 
+Marina Gay, BIST/IRB Barcelona, Spain, Title: Protamine Characterization by Top-Down Proteomics: Boosting Proteoform Identification with DBSCAN
 
 12:00 Best Practice Session (Open Discussion & One Slide Presentations)
 
