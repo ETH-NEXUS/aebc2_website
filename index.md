@@ -32,11 +32,11 @@ Phillip Mertins, BIMSB/MDC, Berlin, Germany and Marina Gay, BIST/IRB Barcelona, 
 
    Phillip Mertins, BIMSB/MDC Berlin, Germany, Title: t.b.c. 
 
-10:00  Contributed talk & discussion 
+10:00  Bioinformatics core facility management training - availability and challenges, Eva Alloza, Barcelona Supercomputing Center (BSC)
 
-10:20  Contributed talk & discussion 
+10:20  TBA, Sven Nahnsen, University of Tübingen 
 
-10:40  Contributed talk & discussion 
+10:40  Cell type-specific gene co-expression modules and expression signatures define tumor heterogeneity in melanoma patients, Lars Bosshard, ETH Zurich
 
 11:00  End of 1st Session 
 
