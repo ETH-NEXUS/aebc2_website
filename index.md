@@ -30,7 +30,7 @@ Phillip Mertins, BIMSB/MDC, Berlin, Germany and Marina Gay, BIST/IRB Barcelona, 
  
  9:15   Keynote presentation & discussion
 
-   Phillip Mertins, BIMSB/MDC Berlin, Germany, Title: t.b.c. 
+   Phillip Mertins, BIMSB/MDC Berlin, Germany, Title: Navigating proteomics techniques for molecular profiling of clinical cancer cohorts
 
 10:00  Bioinformatics core facility management training - availability and challenges, Eva Alloza, Barcelona Supercomputing Center (BSC)
 
