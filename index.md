@@ -2,7 +2,7 @@ The AEBC2 has been established in 2016. Its workshop is intended as a yearly mee
 
 ## Next AEBC2 Event
 
-This year our workshop will be happening at [Personalized Health Technologies 2024](https://personalizedhealth.ch) on 26^th^ of August in Zurich, Switzerland.
+This year our workshop will be happening at [Personalized Health Technologies 2024](https://personalizedhealth.ch) on 26<sup>th</sup> of August in Zurich, Switzerland.
 
 ## Call for Abstracts
 
@@ -61,10 +61,10 @@ A more prose description can be found on the [PHT 2024 website](https://www.pers
 
 AEBC2 2024 is organized by
 
-- Daniel Stekhoven ([ETH Zurich](https://ethz.ch/), Swiss Institute of Bioinformatics ([SIB](https://www.sib.swiss/)), Switzerland), *AEBC2 host 2024*
-- Camille Stephan ([IRB Barcelona](https://www.irbbarcelona.org/en), Spain)
-- Asier Antoranz Martinez ([KU Leuven](https://www.kuleuven.be/english/kuleuven/), Belgium)
-- Sven Nahnsen ([University of Tübingen](https://uni-tuebingen.de/), Germany)
+- **Daniel Stekhoven** ([ETH Zurich](https://ethz.ch/), Swiss Institute of Bioinformatics ([SIB](https://www.sib.swiss/)), Switzerland), *AEBC2 host 2024*
+- **Camille Stephan** ([IRB Barcelona](https://www.irbbarcelona.org/en), Spain)
+- **Asier Antoranz Martinez** ([KU Leuven](https://www.kuleuven.be/english/kuleuven/), Belgium)
+- **Sven Nahnsen** ([University of Tübingen](https://uni-tuebingen.de/), Germany)
 
 ## Imprint
 
@@ -82,7 +82,7 @@ The organizers have not checked third party web sites, i.e. web sites not locate
 
 ### Copyrights to media
 
-Rights to media are reserved for ETH Zurich, Switzerland, 2024.
+Rights to some media are reserved to SIB Swiss Intstitute of Bioinformatics, Nicolas Righetti.
 
 ### Data Privacy
 
