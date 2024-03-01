@@ -1,99 +1,74 @@
-# AEBC2 Workshop
+The AEBC2 has been established in 2016. Its workshop is intended as a yearly meeting of European bioinformatics **core facilities**, covering all aspects **scientific** and **operative**.
 
+## Next AEBC2 Event
 
-The AEBC2 workshop has been established as a yearly meeting of European bioinformatics **core facilities**, covering all **scientific** and **service aspects**. 
+This year our workshop will be happening at [Personalized Health Technologies 2024](https://personalizedhealth.ch) on 26^th^ of August in Zurich, Switzerland.
 
-## 6th AEBC2 Event 2022 
+## Call for Abstracts
 
-The sixth edition of the **AEBC2** workshop will take place at the **ECCB** conference on Sunday, September 18th, 2022 in Sitges, Barcelona, Spain. It will be an **in-person** event - we look forward to meeting you! Each year, there is a different focus topic; for 2022 we selected **Mass Spectrometry and Multi-Omics Bioinformatics**
-
-Registration and **call for abstracts** has started! 
-
-### Call for Abstracts
-
-Submit your abstract for a contributed talk by sending e-mail to <info@aebc2.eu> by 8th of August 2022. 
+Submit **your abstract** for a contributed talk by sending e-mail to <info@aebc2.eu> by 30th of June 2024. 
 
 Abstract towards contributed talks within the scope of the workshop goals are welcome. Selection will be done by the AEBC2 organization committee.  
 
 ### Registration 
 
-AEBC2 is open to all [ECCB](https://eccb2022.org/registration/) participants at no extra cost. 
+> Registration for PHT 2024 will open soon.
+
+AEBC2 will be available as a workshop for all participants of PHT 2024 at an additional fee of CHF 40, including coffee breaks and lunch.
 
 ## Program 
 
-We have the pleasure to announce the following keynote speakers
-Phillip Mertins, BIMSB/MDC, Berlin, Germany and Marina Gay, BIST/IRB Barcelona, Spain.
+The program will be extended continously.
 
-### Session 1
+| When   | What                   | Who           |
+| ---:   |    :----               | :---          |
+| 09:00  | Welcome address        | AEBC2 Hosts   |
+| 09:15  | Keynote                | *TBA*         |
+| 10:00  | Coffee break           | ETH Zurich    |
+| 10:30  | Contributed talks      | *TBA*         |
+| ---:   |    :----               | :---          |
+| 12:00  | Lunch break            | ETH Zurich    |
+| ---:   |    :----               | :---          |
+| 13:00  | Be part - workshop     | AEBC2 Hosts   |
+| 13:30  | Work in topical groups | participants  |
+| 15:00  | Coffee break           | ETH Zurich    |
+| 15:30  | Group presentations    | participants  |
+| 16:15  | Closing remarks        | AEBC2 hosts   |
 
- 9:00   Welcome Address
- 
- 9:15   Keynote presentation & discussion
+The workshop will be finishing by 16:30 enabling everyone to be ready for the Welcome Reception of PHT 2024 at 18:30.
 
-   Phillip Mertins, BIMSB/MDC Berlin, Germany, Title: Navigating proteomics techniques for molecular profiling of clinical cancer cohorts
+## Scope
 
-10:00  Bioinformatics core facility management training - availability and challenges, Eva Alloza, Barcelona Supercomputing Center (BSC)
+As part of the PHT 2024 conference and by nature of our AEBC2 host [NEXUS](https://www.nexus.ethz.ch) the scientific scope of the workshop will be on human health, medicine, and clinical research. Please note that as always also other topics are possible, especially on the operative/administrative side of bioinformatics core facilities.
 
-10:20  TBA, Sven Nahnsen, University of Tübingen 
+A more prose description can be found on the [PHT 2024 website](https://www.personalizedhealth.ch/info/AEBC2).
 
-10:40  Cell type-specific gene co-expression modules and expression signatures define tumor heterogeneity in melanoma patients, Lars Bosshard, ETH Zurich
+### Goals
 
-11:00  End of 1st Session 
+- Cultivating a community of bioinformaticians engaged in clinical service provision, including tool and service developers.
 
-### Session 2
+- Assessing the strengths and weaknesses of current technologies.
 
-11:15 Keynote presentation & discussion 
+- Sharing outcomes from benchmark studies and systematic data/tool quality assessments.
 
-Marina Gay, BIST/IRB Barcelona, Spain, Title: Protamine Characterization by Top-Down Proteomics: Boosting Proteoform Identification with DBSCAN
+- Harmonizing study designs for quality assessments.
 
-12:00 Best Practice Session (Open Discussion & One Slide Presentations)
+- Disseminating best practices in bioinformatics for clinical applications, focusing on effective communication with clinicians.
 
-12:45 Closing Remarks 
-
-13:00 End of Workshop 
-
-### Social Event 
-
-In addition we will organise a social event in the evening for all participants to further foster core unit networking. Please do sent an email to <info@aebc2.eu> by 1st of September 2022 if you want to participate. 
-
-
-
-## Goals & Scope
-
-The number of bioinformatics core units in industrial and academic research environments is growing rapidly. The AEBC2 workshop provides an exchange opportunity for scientific and service aspects of bioinformatics core facilities in Europe.
-
-This year the event is focusing on Mass Spectrometry and Multi-Omics Bioinformatics. 
-
-The general goals of the workshop are:
-- fostering a community of bioinformaticians working in providing services, including researchers and companies producing tools for or services to them;
-- understanding the strengths and weaknesses of available technologies;
-- exchanging results of benchmark studies, of systematic data and tool quality assessment efforts;
-- learning about best practices: what to do and what to avoid in bioinformatics when offered as a service, especially to clinician;
-- developing best practices of reporting evidence to clinicians.
-
-We address publicly used analysis infrastructures, bioinformatics services and research, as well as translational bioinformatics issues like integration of bio-banking, medical information (records) and the corresponding genomic information. The topics discussed include, but are not limited to, ideas, new solutions and best practices in : 
-
-- High throughput data processing, data analysis and interpretation
-- Reproducible research, workflow and tool management
-- Benchmarking of data analysis workflows
-- Data management, data sharing, data security, and legal aspects
-- Next-generation infrastructure, e.g. virtualization, cloud services, etc
-
-We address publicly used analysis infrastructures, bioinformatics service and research, as well as translational bioinformatics issues like integration of bio-banking, medical records, and the corresponding genomic information.
+- Developing robust protocols for reporting clinical evidence.
 
 ## Organizers
 
-AEBC2 2021 is organized by
+AEBC2 2024 is organized by
 
+- Daniel Stekhoven ([ETH Zurich](https://ethz.ch/), Swiss Institute of Bioinformatics ([SIB](https://www.sib.swiss/)), Switzerland), *AEBC2 host 2024*
 - Camille Stephan ([IRB Barcelona](https://www.irbbarcelona.org/en), Spain)
+- Asier Antoranz Martinez ([KU Leuven](https://www.kuleuven.be/english/kuleuven/), Belgium)
 - Sven Nahnsen ([University of Tübingen](https://uni-tuebingen.de/), Germany)
-- Daniel Stekhoven ([ETH Zurich](https://ethz.ch/en.html), Swiss Institute of Bioinformatics ([SIB](https://www.sib.swiss/)), Switzerland)
-- Dieter Beule, ([Berlin Institute of Health at Charite](https://www.cubi.bihealth.org/), Germany)
-- Sven Rahmann, ([Saarland University](https://www.rahmannlab.de/), Germany)
 
 ## Imprint
 
-www.aebc2.eu is the website of the Annual European Bioinformatics Core Community Workshop (AEBC2). The website is published by the organizers, namely Camille Stephan (Barcelona, Spain), Sven Nahnsen (Tübingen, Germany), and Daniel Stekhoven (Zurich, Switzerland), Dieter Beule (Berlin, Germany), Sven Rahmann (Saarbrücken, Germany).
+www.aebc2.eu is the website of the Annual European Bioinformatics Core Community Workshop (AEBC2). The website is published by the organizers.
 
 ### Disclaimer
 
@@ -101,13 +76,13 @@ Although the organizers take all possible care to ensure the correctness of publ
 
 The organizers expressly reserve the right to change, to delete or temporarily not to publish the contents wholly or partly at any time and without giving notice.
 
-Liability claims against the organizers or their affiliated institutions, namely University of Tübingen, IRB Barcelona, ETH Zurich, BIH-Charite Berlin, Saarland University because of tangible or intangible damage arising from accessing, using or not using the published information, through misuse of the connection or as a result of technical breakdowns are excluded.
+Liability claims against the organizers or their affiliated institutions because of tangible or intangible damage arising from accessing, using or not using the published information, through misuse of the connection or as a result of technical breakdowns are excluded.
 
 The organizers have not checked third party web sites, i.e. web sites not located on their servers or in their area of influence, that may be connected to this web site via links, and do not accept any responsibility for the contents or the services offered thereon.
 
 ### Copyrights to media
 
-Rights to some pictures are reserved for SIB Swiss Institute of Bioinformatics, Photo: Nicolas Righetti Lundi13.
+Rights to media are reserved for ETH Zurich, Switzerland, 2024.
 
 ### Data Privacy
 
