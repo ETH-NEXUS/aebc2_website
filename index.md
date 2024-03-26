@@ -12,7 +12,7 @@ Abstract towards contributed talks within the scope of the workshop goals are we
 
 ### Registration 
 
-> Registration for PHT 2024 will open soon.
+[Registration for PHT 2024 has opened!](https://ethzurich.eventsair.com/pht-2024/registration/Site/Register)
 
 AEBC2 will be available as a workshop for all participants of PHT 2024 at an additional fee of CHF 40, including coffee breaks and lunch.
 
