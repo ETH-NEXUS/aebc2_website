@@ -18,22 +18,28 @@ AEBC2 will be available as a workshop for all participants of PHT 2024 at an add
 
 ## Program 
 
+The keynote presentation will be given by [Martin Fergie, PhD](https://research.manchester.ac.uk/en/persons/martin.fergie) of the University of Manchester. He is a machine learning and computer vision researcher in the Division of Informatics, Imaging and Data Sciences. His research interests are focussed on using machine learning models to predict disease outcomes from medical imaging data. Key projects include: predicting breast cancer risk from screening mammograms; predicting clinical outcomes for cancer using multiplex immunofluorescence tissue imaging. 
+
+<div style="text-align: center;">
+    ![Martin Fergie](/assets/img/martin_fergie_portrait.webp "Martin Fergie, Picture from https://research.manchester.ac.uk/")
+</div>
+
 The program will be extended continously.
 
 | When   | What                   | Who           |
 | ---:   |    :----               | :---          |
-| 09:00  | Welcome address        | AEBC2 Hosts   |
-| 09:15  | Keynote                | *TBA*         |
+| 09:00  | Welcome address        | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058), ETH Zurich |
+| 09:15  | Keynote                | [Martin Fergie](https://research.manchester.ac.uk/en/persons/martin.fergie), University of Manchester |
 | 10:00  | Coffee break           | ETH Zurich    |
 | 10:30  | Contributed talks      | *TBA*         |
 | ---:   |    :----               | :---          |
 | 12:00  | Lunch break            | ETH Zurich    |
 | ---:   |    :----               | :---          |
-| 13:00  | Be part - workshop     | AEBC2 Hosts   |
+| 13:00  | Be part - workshop     | AEBC2 organisers   |
 | 13:30  | Work in topical groups | participants  |
 | 15:00  | Coffee break           | ETH Zurich    |
 | 15:30  | Group presentations    | participants  |
-| 16:15  | Closing remarks        | AEBC2 hosts   |
+| 16:15  | Closing remarks        | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058), ETH Zurich   |
 
 The workshop will be finishing by 16:30 enabling everyone to be ready for the Welcome Reception of PHT 2024 at 18:30.
 
