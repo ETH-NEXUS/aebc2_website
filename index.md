@@ -20,9 +20,7 @@ AEBC2 will be available as a workshop for all participants of PHT 2024 at an add
 
 The keynote presentation will be given by [Martin Fergie, PhD](https://research.manchester.ac.uk/en/persons/martin.fergie) of the University of Manchester. He is a machine learning and computer vision researcher in the Division of Informatics, Imaging and Data Sciences. His research interests are focussed on using machine learning models to predict disease outcomes from medical imaging data. Key projects include: predicting breast cancer risk from screening mammograms; predicting clinical outcomes for cancer using multiplex immunofluorescence tissue imaging. 
 
-<div style="text-align: center;">
 ![Martin Fergie](assets/img/martin_fergie_portrait.webp "Martin Fergie, Picture from https://research.manchester.ac.uk/")
-</div>
 
 The program will be extended continously.
 
