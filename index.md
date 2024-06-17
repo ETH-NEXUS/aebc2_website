@@ -29,7 +29,9 @@ The program will be extended continously.
 | 09:00  | Welcome address        | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058), ETH Zurich |
 | 09:15  | Keynote                | [Martin Fergie](https://research.manchester.ac.uk/en/persons/martin.fergie), University of Manchester |
 | 10:00  | Coffee break           | ETH Zurich    |
-| 10:30  | Contributed talks      | *TBA*         |
+| 10:30  | Clinical decision support systems in precision medicine | [Nadine S. Kurz](https://bioinformatics.umg.eu/about-us/team/), University Medical Center Göttingen |
+| 11:00  | DISSCOvery - a single-cell omics analysis pipeline | [Asier Antoranz Martinez](https://lisco.kuleuven.be/), KU Leuven Institute for Single Cell Omics |
+| 11:30  | TBA                    | *TBA*         |
 | ---:   |    :----               | :---          |
 | 12:00  | Lunch break            | ETH Zurich    |
 | ---:   |    :----               | :---          |
