@@ -28,14 +28,15 @@ The program will be extended continously.
 | ---:   |    :----               | :---          |
 | 09:00  | Welcome address        | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058), ETH Zurich |
 | 09:15  | Spatial Analysis of Multiplex Immunofluorescence Images for Outcome Prediction | [Martin Fergie](https://research.manchester.ac.uk/en/persons/martin.fergie), University of Manchester |
-| 10:00  | Coffee break           | ETH Zurich    |
-| 10:30  | Clinical decision support systems in precision medicine | [Nadine S. Kurz](https://bioinformatics.umg.eu/about-us/team/), University Medical Center Göttingen |
-| 11:00  | DISSCOvery - a single-cell omics analysis pipeline | [Asier Antoranz Martinez](https://lisco.kuleuven.be/), KU Leuven Institute for Single Cell Omics |
-| 11:30  | Be part - call         | AEBC2 organisers |
+| 10:00  | Clinical decision support systems in precision medicine | [Nadine S. Kurz](https://bioinformatics.umg.eu/about-us/team/), University Medical Center Göttingen |
+| 10:30  | Coffee break           |               |
+| 11:00  | DISSCOvery - a single-cell omics analysis pipeline | [Asier Antoranz Martinez](https://lisco.kuleuven.be/), KU Leuven Institute for Single Cell Omics   |
+| 11:30  | Open discussion        | participants  |
+| 12:00  | Be part - call         | AEBC2 organisers |
 | ---:   |    :----               | :---          |
-| 12:00  | Lunch break            | ETH Zurich    |
+| 12:30  | Lunch break            | ETH Zurich    |
 | ---:   |    :----               | :---          |
-| 13:00  | Work in topical groups | participants  |
+| 13:30  | Work in topical groups | participants  |
 | 15:00  | Coffee break           | ETH Zurich    |
 | 15:30  | Group presentations    | participants  |
 | 16:15  | Closing remarks        | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058), ETH Zurich   |
